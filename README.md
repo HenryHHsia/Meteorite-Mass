@@ -1,2 +1,2 @@
 # MeteoriteMass
-Predict the mass of a meteorite using machine learning models
+Project to predict the mass of a meteorite using machine learning models
